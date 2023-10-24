@@ -1,5 +1,5 @@
 const openNewIssue = () => {
-    const url = 'https://github.com/matiasbaldanza/ecommerce-reactjs/issues/new'
+    const url = 'https://github.com/LeoHallakAlvarez/Reentrega-ReactFinal'
     const win = window.open(url, '_blank')
     win.focus()
   }
